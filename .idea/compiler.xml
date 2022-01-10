@@ -7,12 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Sem3 - Startkode" />
+        <module name="Sem3-Startcode-Backend" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Sem3 - Startkode" options="-endorseddirs C:\Users\jonas\Desktop\Programmering\Sem3-Eksamen\Forberedelse\CA2\target/endorsed" />
+      <module name="Sem3-Startcode-Backend" options="-endorseddirs C:\Users\jonas\Desktop\Programmering\Sem3-Eksamen\Forberedelse\Sem3-Startcode-Backend\target/endorsed" />
     </option>
   </component>
 </project>
